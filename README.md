@@ -18,20 +18,20 @@ When doing these exercises, please use all documentation and resources you need 
 - [x] Descendant combinator
 
 **Cascade**
-- [] Cascade fix
+- [ ] Cascade fix
 
 **Block and inline**
-- [] Margin and padding I
-- [] Margin and padding II
+- [ ] Margin and padding I
+- [ ] Margin and padding II
 
 **Flex**
-- [] Flex center
-- [] Flex header I
-- [] Flex header II
-- [] Flex information
-- [] Flex modal
-- [] Flex layout I
-- [] Flex layout II
+- [ ] Flex center
+- [ ] Flex header I
+- [ ] Flex header II
+- [ ] Flex information
+- [ ] Flex modal
+- [ ] Flex layout I
+- [ ] Flex layout II
 
 ## 📌 Instructions
 
