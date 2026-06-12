@@ -1,4 +1,4 @@
-# CSS Exercises
+# 🎓 TOP: CSS Exercises
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
 
@@ -7,11 +7,39 @@ When doing these exercises, please use all documentation and resources you need 
 > [!IMPORTANT]
 > We encourage you to practice your git skills by committing your changes and pushing them to your own fork.  However, please **DO NOT** open a Pull Request to have your solutions merged into this repo or to show your solution.  If we were to merge your changes the exercises would no longer be available as intended for new learners, and opening a PR only causes additional work for us, as we have to close it without merging.
 
-## Contributing
+## 🏆 Completion Status
+
+### Foundations
+**Intro to CSS**
+- [x] CSS methods
+- [x] Class, ID selectors
+- [x] Grouping selectors
+- [x] Chaining selectors
+- [x] Descendant combinator
+
+**Cascade**
+- [] Cascade fix
+
+**Block and inline**
+- [] Margin and padding I
+- [] Margin and padding II
+
+**Flex**
+- [] Flex center
+- [] Flex header I
+- [] Flex header II
+- [] Flex information
+- [] Flex modal
+- [] Flex layout I
+- [] Flex layout II
+
+## 📌 Instructions
+
+### Contributing
 
 If you have suggestions to improve an exercise, ideas for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md).
 
-## How To Use These Exercises
+### How To Use These Exercises
 
 1. Fork this repository.
    - A *fork* is your own copy of a repository stored on your GitHub account. To learn how to fork a repository, see the GitHub documentation on [how to fork a repo](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository).
@@ -29,7 +57,7 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 > [!IMPORTANT]
 > Do not submit your solutions to this repo, as any PRs that do so will be closed without merging.
 
-## Some Hints
+### Some Hints
 
 - The provided example solutions put all changes at the _end_ of the CSS file, which may duplicate some selectors (e.g. there might be a `body {}` in the given CSS and another `body {}` in the solution). When you are working on an exercise, it is best practice to add your CSS to existing selectors instead of duplicating them at the end of the file. We're sacrificing this best practice in our official solutions to make it extra clear to you what things we changed to solve the exercise.
 - Unless listed in the self-check section, do not worry about getting the exact pixel value for things like margin, padding and font size. These exercises are intended to test your knowledge of CSS, not your ability to guess that a screenshot is using `font: sans-serif bold 16px` or that the margin is _exactly_ `42px`.
